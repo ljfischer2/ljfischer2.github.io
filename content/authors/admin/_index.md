@@ -10,7 +10,7 @@ first_name: Lucas J
 last_name: Fischer
 
 # Status emoji
-#status:
+status:
   icon: 
 
 # Is this the primary user of the site?
